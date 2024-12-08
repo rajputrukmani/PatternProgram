@@ -1,0 +1,28 @@
+<script>
+          
+         for( let i=1 ;i<=5 ; i++)
+           {
+            let s="";
+              for(let k=i; k<5;k++)
+               {
+                         s +=" ";
+                    }
+                   for(let j=1; j<=2*i-1;j++)
+                   {
+                      if( j==1||j==||i==5){
+                        s +="*";
+                    }
+                    else{
+                       s +=" ";
+                    }
+
+                    
+                }
+          
+                     
+            console.log(s)
+            } 
+
+   
+         
+</script>
